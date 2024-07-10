@@ -66,7 +66,7 @@ After cloning the github, you will want to do the following to get the code runn
 
 Contributors' names and contact info:
 - Shiwani Agarwal
-- shivuagaewal23@gmail.com
+- shivuagarwal23@gmail.com
 
 ## License
 
